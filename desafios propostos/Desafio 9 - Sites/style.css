@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(320deg,rgb(91, 91, 150),rgb(180, 180, 123), rgb(146, 192, 146));
+    text-align: center;
+    margin: 100px;
+    padding: 5%;
+    font: normal 30px Arial rgb(10, 10, 10);
+    color: rgb(5, 5, 5);
+}
+img {
+    width: 300px;
+}

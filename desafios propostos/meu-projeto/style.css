@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(120deg, rgb(0, 0, 255), orange);
+    height: 100vh;
+    text-align: center;
+    margin-top: 20px;
+}
+#geral{
+    color: white;
+    background-color: blue;
+    margin: auto;
+    box-shadow: 4px 4px 15px orange;
+    padding: 20px;
+    width: 500px;
+    min-height: 200px;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+
+}
+#tarefaInput {
+    width: 65%;
+    height: 38px;
+    border-radius: 10px;
+}
+#botao {
+    background-color: rgb(255, 123, 0);
+    margin: 0px;
+    width: 25%;
+    height: 38px;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-family: monospace;
+}
+#botao:hover {
+     background-color: rgb(236, 115, 2);
+}
+#botao:active {
+    background-color: rgb(192, 94, 3);
+}
+a {
+    color: white;
+    font: 15px Arial black;
+    padding: 20px;
+}
