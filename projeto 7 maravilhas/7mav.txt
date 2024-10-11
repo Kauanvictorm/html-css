@@ -46,3 +46,7 @@ Com capacidade para 50.000 espectadores, o Coliseu era o palco de espetáculos e
 imagem
 Taj Mahal (Índia): Um mausoléu construído pelo imperador Shah Jahan em homenagem à sua esposa Mumtaz Mahal, o Taj Mahal é uma obra-prima da arquitetura islâmica. 
 Com sua beleza e detalhes intrincados, é um símbolo de amor eterno.
+
+
+ideias: colocar um desenho do mundo ao lado do TITULO
+testar como fica a bandeira de cada pais ao lado do nome do pais
