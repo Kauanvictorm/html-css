@@ -1,0 +1,48 @@
+Grande Muralha da China
+Ruinas de  Petra (Jordânia)
+Cristo Redentor (Brasil)
+Machu Picchu (Peru)
+Chichén Itzá (México)
+Coliseu (Itália)
+Taj Mahal (Índia)
+
+-TITULO
+imagem
+Grande Muralha da China (China): Um vasto sistema de fortificações construídas para proteger as fronteiras do império chinês.
+Com milhares de quilômetros, a muralha é um testemunho da engenhosidade e determinação dos antigos chineses.
+
+
+-TITULO
+imagem
+Petra (Jordânia): Conhecida como a "Cidade Rosa", Petra é famosa por suas impressionantes fachadas esculpidas em rochas de arenito.
+Antiga capital dos nabateus, é um importante sítio arqueológico e símbolo da cultura árabe.
+
+
+
+-TITULO
+imagem
+Cristo Redentor (Brasil): Esta icônica estátua de Jesus Cristo, localizada no Rio de Janeiro, simboliza paz e acolhimento.
+Com braços abertos, observa a cidade e é uma das mais reconhecidas representações religiosas do mundo.
+
+
+-TITULO
+imagem
+Machu Picchu (Peru): Uma cidade inca antiga localizada nas montanhas dos Andes, Machu Picchu é conhecida por suas ruínas bem preservadas e vistas deslumbrantes.
+É um exemplo impressionante da habilidade arquitetônica inca.
+
+-TITULO
+imagem
+Chichén Itzá (México): Um importante centro da civilização maia, Chichén Itzá é famosa pela pirâmide de Kukulcán.
+Este sítio arqueológico é um testemunho da rica história e cultura maia, atraindo visitantes de todo o mundo.
+
+
+-TITULO
+imagem
+Coliseu (Itália): Este anfiteatro romano é um símbolo da arquitetura e engenharia antigas.
+Com capacidade para 50.000 espectadores, o Coliseu era o palco de espetáculos e lutas de gladiadores na Roma Antiga.
+
+
+-TITULO
+imagem
+Taj Mahal (Índia): Um mausoléu construído pelo imperador Shah Jahan em homenagem à sua esposa Mumtaz Mahal, o Taj Mahal é uma obra-prima da arquitetura islâmica. 
+Com sua beleza e detalhes intrincados, é um símbolo de amor eterno.

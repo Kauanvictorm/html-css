@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+:root {
+    --cor1: #45718C;
+    --cor2: #80A7BF;
+    --cor3: #657351;
+    --cor4: #BF895A;
+    --cor5: #F2C49B;
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: var(--cor1);
+}
+header {
+    background-color: var(--cor1);
+    padding: 40px 0px;
+}
+header > h1 {
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 10px;
+}
+section.texto {
+    background-color: white;
+}
+section.texto > h2 {
+    font-variant: small-caps;
+    font-size: 2em;
+}
+section.texto > p {
+    padding-left: 30px;
+    line-height: 2em;
+    font-size: 1.5em;
+}
+
+
+
+section.imagem {
+    padding: 400px;
+    
+}
+section#img1 {
+    background-image: url('imagens/muralha-da-china.jpg');
+    background-position: right center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img2 {
+    background-image: url('imagens/ruinas-jordania.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img3 {
+    background-image: url('imagens/cristo-redentor.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img4 {
+    background-image: url('imagens/machu-picchu.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img5 {
+    background-image: url('imagens/chichén-itzá.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img6 {
+    background-image: url('imagens/coliseu.jpeg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+section#img7 {
+    background-image: url('imagens/taj-mahal.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.425);
+}
+
+
+footer {
+
+}
